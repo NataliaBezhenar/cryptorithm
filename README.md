@@ -1,4 +1,6 @@
-# cryptorithm
+# cryptarithm
+
+<p>desicion of criptarithm VOLK+LISA=ZVERI, where each letter can take the value from 0 to 9 (excluding 1), Z always equals 1 <p>
 
 <p>program output:<p>
 * 895+9742=10637
